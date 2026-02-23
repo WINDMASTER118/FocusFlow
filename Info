@@ -6,40 +6,40 @@ It is built with a scalable architecture and includes task management, analytics
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🗂 Task Management
+###  Task Management
 - Create, edit, and delete tasks
 - Set priority (Low / Medium / High)
 - Add due dates
 - Mark tasks as completed
 - Search and filter tasks
 
-### 📊 Dashboard
+###  Dashboard
 - Task statistics
 - Progress tracking
 - Overdue tracking
 - Session insights
 
-### ⏱ Focus Timer
+###  Focus Timer
 - Pomodoro-style timer
 - Customizable work & break durations
 - Session tracking history
 - Visual progress ring
 
-### 💾 Data Management
+###  Data Management
 - Export data as JSON
 - Import data from JSON
 - Local data persistence
 
-### 🌙 UI & Experience
+###  UI & Experience
 - Dark / Light mode
 - Responsive design
 - Clean and modern interface
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ```bash
 # Clone the repository
