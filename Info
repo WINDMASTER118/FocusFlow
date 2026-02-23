@@ -1,6 +1,6 @@
 # FocusFlow
 
-FocusFlow is a modern productivity web application designed to help users manage tasks, track progress, and improve focus using a built-in Pomodoro timer.
+FocusFlow is a modern productivity system with task prioritization, analytics dashboard, and built-in focus session tracking, designed with scalable architecture and data portability.
 
 It is built with a scalable architecture and includes task management, analytics, dark mode, and full data export/import support — making it ready for future SaaS expansion.
 
@@ -53,6 +53,80 @@ npm install
 
 # Start development server
 npm run dev
+
+
+  ## Core Productivity Features
+
+
+ Task creation, editing, and deletion
+
+ Task prioritization (Low / Medium / High)
+
+ Due date tracking
+
+ Task status management (Pending / Completed)
+
+ Search and filter functionality
+
+ Task sorting (by priority, due date, status)
+
+
+  ##Analytics & Insights
+
+
+ Progress tracking percentage
+
+ Dashboard with task statistics
+
+ Focus session history tracking
+
+ Overdue task detection
+
+ Priority distribution overview
+
+
+  ##Focus & Time Management
+
+
+ Built-in Pomodoro timer
+
+ Start / Pause / Reset controls
+
+ Session counter
+
+ Session history log
+
+
+  ##Data & Reliability Features
+
+
+ Persistent local storage
+
+ Export data as JSON
+
+ Import data from JSON
+
+ Input validation
+
+ Error handling
+
+ Confirmation before deleting tasks
+
+
+  ##User Experience Features
+
+
+ Dark / Light mode toggle
+
+ Fully responsive design
+
+ Clean modern UI
+
+ Modular component architecture
+
+ Scalable codebase ready for backend integration
+
+
 
 // Copyright (c) 2026 Kosmas Anastasios
 // All rights reserved.
